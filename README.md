@@ -49,6 +49,7 @@ A core component of this system is a custom-designed PCBs engineered to ensure t
 </p>
 
 **Digital clock**
+
 More of a manual skills project rather than an engineering challenge. 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9b927dd4-fe59-4a1a-85b6-9ce8952fb4ff" width=80% alt="Clock">
