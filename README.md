@@ -2,8 +2,8 @@
 I am a 3rd-year Electronics undergraduate at Gdańsk University of Technology, specializing in Microwave Engineering. Beyond RF applications, my practical experience includes custom hardware design, embedded programming (C/C++), and 3D modeling for FDM printing.
 
 My core focus areas:
-- ⚡ Hardware Design: PCB design (KiCad), RF circuits. 
-- 💻 Embedded Systems: Firmware development in C/C++ (Raspberry Pi Pico, Arduino, STM32).
+- ⚡ Hardware Design: PCB design ( KiCad, Altium ), RF circuits ( ADS Keysight ). 
+- 💻 Embedded Systems: Firmware development in C/C++ (Raspberry Pi Pico, STM32, Arduino).
 - 🛠️ Prototyping: 3D design (Autodesk Inventor) and FDM 3D printing.
 
 Here are some projects i would like to share.
@@ -28,6 +28,16 @@ A core component of this system is a custom-designed PCBs engineered to ensure t
 </p>
 
 ## Other personal projects
+**Engineering thesis - in the making.**  
+My project consist of a controller and a demonstrator. 
+Where the controller is said to electronically adjust output voltage in a range of -20V to 1 V.  
+The demonstrator is a microwave circuit working around 2.4 GHz. It is a tunable band-pass filter that utilizes varicap diode as a tunable element.  
+This project taught me how design and simulate high frequency board as well as how to design low power, low ripple DC voltage sources. 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5b7c76e2-e6d6-4b3e-aca6-dca9814190f0" width="34%" alt="">
+  &nbsp;
+  <img src="https://github.com/user-attachments/assets/d9449a4d-dcad-4b5a-81e9-176076af4145" width="60%" alt="">
+</p>
 
 **Arbitrary waveform generator with an amplifier.**
 - Project that integrated lumped-element RF design, programming and 3D design.
